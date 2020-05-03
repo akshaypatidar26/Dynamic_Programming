@@ -32,40 +32,26 @@ bool sub_sum(int a[],int n,int sum)
     }
     return t[n][sum];
 }
-int main() {
+int main()
+ {
         int t;
         cin>>t;
         while(t--)
         {
-            int n;
+           int n;
             cin>>n;
-            int a[n];
+           int a[n];
             for(int i=0;i<n;i++)
-            {
-                cin>>a[i];
-            }
-            int sum=0;
-            for(int i=0;i<n;i++)
-            {
-                sum+=a[i];
-            }
-            if(sum%2!=0)
-            {
-                cout<<"NO"<<endl;
-                
-            }
-            else{
-                 int ans= sub_sum (a,n,sum/2);
-                 if(ans)
-                 {
-                 cout<<"YES"<<endl;
-                 }
-                 else
-                 { 
-                     cout<<"NO"<<endl;
-                 }
-                 
-                }
+	            {
+	                cin>>a[i];
+	            }
+           int sum;
+              cin>>sum;
+           if (sub_sum(a, n, sum) == true) 
+             cout<<"TRUE"<<endl;
+           else
+             cout<<"FALSE"<<endl;
+
         }
         
         
