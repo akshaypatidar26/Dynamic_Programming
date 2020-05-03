@@ -16,3 +16,14 @@ Given a set of numbers, check whether it can be partitioned into two subsets suc
 ```
 Partition problem is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both subsets is same.
 ```
+4. **Count of subsets sum with a Given sum** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/tree/master/Dynamic-Programming-Solutions)
+
+
+* [Problem](https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/)
+```
+Given an array arr[] of length N and an integer X, the task is to find the number of subsets with sum equal to X.
+```
+
+
+
+
