@@ -11,3 +11,8 @@ In other words, given two integer arrays val[0..N-1] and wt[0..N-1] which repres
 ```
 Given a set of numbers, check whether it can be partitioned into two subsets such that the sum of elements in both subsets is same or not.
 ```
+3. **Equal Sum Partition** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Equal%20Sum%20Partition)
+*[Problem](https://www.geeksforgeeks.org/partition-problem-dp-18/)
+```
+Partition problem is to determine whether a given set can be partitioned into two subsets such that the sum of elements in both subsets is same.
+```
