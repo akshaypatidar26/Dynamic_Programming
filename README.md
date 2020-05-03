@@ -23,6 +23,12 @@ Partition problem is to determine whether a given set can be partitioned into tw
 ```
 Given an array arr[] of length N and an integer X, the task is to find the number of subsets with sum equal to X.
 ```
+5. **Sum of subset differences** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Sum%20of%20subset%20differences)
+* [Problem](https://www.geeksforgeeks.org/partition-a-set-into-two-subsets-such-that-the-difference-of-subset-sums-is-minimum/)
+```
+Given a set of integers, the task is to divide it into two sets S1 and S2 such that the absolute difference between their sums is minimum.
+If there is a set S with n elements, then if we assume Subset1 has m elements, Subset2 must have n-m elements and the value of abs(sum(Subset1) – sum(Subset2)) should be minimum.
+```
 
 
 
