@@ -37,6 +37,10 @@ If there is a set S with n elements, then if we assume Subset1 has m elements, S
 ```
 Given a knapsack weight W and a set of n items with certain value vali and weight wti, we need to calculate minimum amount that could make up this quantity exactly. This is different from classical Knapsack problem, here we are allowed to use unlimited number of instances of an item.
 ```
-
+7. **Coin Change** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Coin%20Change)
+* [Problem](https://www.geeksforgeeks.org/coin-change-dp-7/)
+```
+Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , Sm} valued coins. The order of coins doesn’t matter.
+```
 
 
