@@ -51,6 +51,8 @@ Given two sequences, find the length of longest subsequence present in both of t
 
 8. **Longest Common Substring** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/new/master/Dynamic-Programming-Solutions)
 * [Problem](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
-``` Given two strings X and Y. The task is to find the length of the longest common substring.
+```
+Given two strings X and Y. The task is to find the length of the longest common substring.
+
 ```
 
