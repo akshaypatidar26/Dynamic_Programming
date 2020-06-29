@@ -49,10 +49,17 @@ Given a value N, find the number of ways to make change for N cents, if we have 
 Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.
 ```
 
-8. **Longest Common Substring** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/new/master/Dynamic-Programming-Solutions)
+9. **Longest Common Substring** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/new/master/Dynamic-Programming-Solutions)
 * [Problem](https://practice.geeksforgeeks.org/problems/longest-common-substring/0)
 ```
 Given two strings X and Y. The task is to find the length of the longest common substring.
+
+```
+
+10. **Shortest Common Supersequence** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Shortest%20Common%20Supersequence)
+* [Problem](https://practice.geeksforgeeks.org/problems/shortest-common-supersequence/0)
+```
+Given two strings str1 and str2, find the length of the smallest string which has both, str1 and str2 as its sub-sequences.
 
 ```
 
