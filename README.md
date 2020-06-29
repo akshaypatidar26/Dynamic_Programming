@@ -43,7 +43,7 @@ Given a knapsack weight W and a set of n items with certain value vali and weigh
 Given a value N, find the number of ways to make change for N cents, if we have infinite supply of each of S = { S1, S2, .. , Sm} valued coins. The order of coins doesn’t matter.
 ```
 
-8. **Longest Common Subsequence** [Solution](Dynamic-Programming-Solutions/Longest Common Subsequence)
+8. **Longest Common Subsequence** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Longest%20Common%20Subsequence)
 * [Problem](https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0 )
 ``` 
 Given two sequences, find the length of longest subsequence present in both of them. Both the strings are of uppercase.
