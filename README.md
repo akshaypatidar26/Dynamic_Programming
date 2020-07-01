@@ -70,7 +70,7 @@ Given two strings ‘str1’ and ‘str2’ of size m and n respectively. The ta
 
 ```
 
-12. **** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Longest%20Palindromic%20Subsequence)
+12. **Longest Palindromic Subsequence** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Longest%20Palindromic%20Subsequence)
 * [Problem](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/)
 ```
 Given a sequence, find the length of the longest palindromic subsequence in it.
