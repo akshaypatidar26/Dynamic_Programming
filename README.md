@@ -90,7 +90,7 @@ Given a string str, find length of the longest repeating subseequence such that 
 
 ```
 15. **Form a palindrome** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Minimum%20Deletions)
-* [Problem]()
+* [Problem](https://github.com/akshaypatidar26/Dynamic_Programming/new/master/Dynamic-Programming-Solutions)
 ```
 Given a string, find the minimum number of characters to be inserted to convert it to palindrome.
 ```
