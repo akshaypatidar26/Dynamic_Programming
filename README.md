@@ -70,3 +70,17 @@ Given two strings ‘str1’ and ‘str2’ of size m and n respectively. The ta
 
 ```
 
+12. **** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Longest%20Palindromic%20Subsequence)
+* [Problem](https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/)
+```
+Given a sequence, find the length of the longest palindromic subsequence in it.
+
+```
+
+13. **Minimum Deletions** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Minimum%20Deletions)
+* [Problem](https://practice.geeksforgeeks.org/problems/minimum-deletitions/0)
+```
+Given a string of S as input. Your task is to write a program to remove or delete minimum number of characters from the string so that the resultant string is palindrome.
+
+```
+
