@@ -83,4 +83,15 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 Given a string of S as input. Your task is to write a program to remove or delete minimum number of characters from the string so that the resultant string is palindrome.
 
 ```
+14. **Longest Repeating Subsequence** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Longest%20Repeating%20Subsequence)
+* [Problem](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0)
+```
+Given a string str, find length of the longest repeating subseequence such that the two subsequence don’t have same string character at same position, i.e., any i’th character in the two subsequences shouldn’t have the same index in the original string.
+
+```
+15. **Form a palindrome** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/blob/master/Dynamic-Programming-Solutions/Minimum%20Deletions)
+* [Problem]()
+```
+Given a string, find the minimum number of characters to be inserted to convert it to palindrome.
+```
 
