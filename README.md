@@ -95,3 +95,12 @@ Given a string str, find length of the longest repeating subseequence such that 
 Given a string, find the minimum number of characters to be inserted to convert it to palindrome.
 ```
 
+16. **Matrix Chain Multiplication ** [Solution](https://github.com/akshaypatidar26/Dynamic_Programming/new/master/Dynamic-Programming-Solutions)
+* [Problem](https://practice.geeksforgeeks.org/problems/matrix-chain-multiplication/0)
+```
+Given a sequence of matrices, find the most efficient way to multiply these matrices together. The problem is not actually to perform the multiplications, but merely to decide in which order to perform the multiplications. There are many options to multiply a chain of matrices because matrix multiplication is associative i.e. no matter how one parenthesize the product, the result will be the same.
+```
+17. **** [Solution]()
+* [Problem]()
+```
+```
